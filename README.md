@@ -52,6 +52,11 @@ Then, as an instructor, start pontificating on things.
 ## So Why Do This?
 
 * First off, it's fun to build something that does work for you.  
-* Second, you're not just making your life easier, you often make things possible that weren't possible at all before.
+* Second, you're not just making your life easier, you often make things possible that weren't possible at all before.  Talk through the possible implications of self-driving cars.
 * The world is only moving more in this direction.  Technology is making it easier and easier to automate repeated tasks, so this is where the job growth will be.
-* Local companies are doing really cool and important things, and it
+* It's also possible that we'll end up in a Star Trek situation, where everyone in the world can bring up a terminal and write some quick code to help them out, regardless of whether they're called "an engineer."
+* Local companies are doing really cool and important things, and this is a way to get involved with them:
+  * Medical devices that can detect things which doctors cannot.
+  * Home monitoring that will tell you if your fridge is about to break based on how much energy your whole house is using.
+  * Software for increasing learning opportunities for low-income children.
+  * ... the list goes on.
