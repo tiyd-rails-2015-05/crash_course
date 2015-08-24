@@ -45,7 +45,13 @@ Then, as an instructor, start pontificating on things.
   * Talk about what databases are
   * Talk about what the web is
   * Make a quick scaffold app and bring it up
-* Deploy to Heroku.  Show them all the web address
+* If time, add some data with Faker.
+* Deploy to Heroku.  Show them all the web address.
 * If crazy time left, add multi-tenancy.
 
 ## So Why Do This?
+
+* First off, it's fun to build something that does work for you.  
+* Second, you're not just making your life easier, you often make things possible that weren't possible at all before.
+* The world is only moving more in this direction.  Technology is making it easier and easier to automate repeated tasks, so this is where the job growth will be.
+* Local companies are doing really cool and important things, and it
