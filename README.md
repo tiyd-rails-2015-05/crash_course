@@ -47,3 +47,5 @@ Then, as an instructor, start pontificating on things.
   * Make a quick scaffold app and bring it up
 * Deploy to Heroku.  Show them all the web address
 * If crazy time left, add multi-tenancy.
+
+## So Why Do This?
