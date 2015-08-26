@@ -1,4 +1,4 @@
-# Crash Course v0.1
+# Crash Course v0.2
 
 ## Discussion
 
